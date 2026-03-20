@@ -7,6 +7,7 @@
 
 A **fully automated CI/CD pipeline** using **AWS CodePipeline**, **CodeBuild**, and **CodeDeploy** to build, test, and deploy a **containerized Nginx web server** on an **EC2 instance**. The source code is hosted on GitHub, and every push triggers an automated deployment.
 
+
 ---
 
 ## 📘 Project Overview
